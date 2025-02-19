@@ -1,0 +1,32 @@
+.trekking{
+	margin-top:170px;
+	float:left;
+	margin-bottom:10px;
+}
+
+.otherservice{
+	margin-top:10px;
+	float:left;
+	margin-bottom:10px;
+}
+
+.image{
+	float:left;
+	width:500px;
+	height:350px;
+}
+
+p span{
+	color:#000099;
+	font-size:25px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.description{
+	text-indent:-30px;
+	width:50%;
+	float:left;
+	margin:15px 0px 10px 100px;
+	text-align:justify;
+}

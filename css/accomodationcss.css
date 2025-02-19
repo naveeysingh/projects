@@ -1,0 +1,33 @@
+.bed_room{
+	margin-top:170px;
+	float:left;
+	margin-bottom:25px;
+}
+
+.image{
+	float:left;
+	width:320px;
+	height:320px;
+}
+
+p span{
+	color:#000099;
+	font-size:25px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.hall{
+	float:left;
+}
+
+
+.description{
+	text-indent:-30px;
+	width:50%;
+	float:left;
+	margin:15px 0px 10px 100px;
+	text-align:justify;
+}
+
+

@@ -1,0 +1,36 @@
+.firstItem{
+	margin-top:180px;
+	float:left;
+	margin-bottom:25px;
+}
+
+
+.foodItem{
+	/* margin-top:180px; */
+	float:left;
+	margin-bottom:25px;
+}
+
+.image{
+	float:left;
+	width:320px;
+	height:250px;
+}
+
+p span{
+	color:#000099;
+	font-size:25px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+
+.description{
+	text-indent:-30px;
+	width:50%;
+	float:left;
+	margin:15px 0px 10px 100px;
+	text-align:justify;
+}
+
+
